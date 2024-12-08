@@ -1,6 +1,7 @@
 export default {
   title: 'Spectral Hub',
   description: 'Spectral Hub Official',
+  base: '/Spectral-Hub-Site/',
   themeConfig: {
     logo: '/images/spectralicon.png',
     sidebar: [
